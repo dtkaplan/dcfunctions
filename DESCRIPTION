@@ -8,6 +8,7 @@ Description: The package provides manipulate apps for getting started with
 Depends:
     R (>= 3.1), dplyr, ggplot2, tidyr, lubridate, stringr
 Uses: igraph, shiny, rmarkdown, stringdist, manipulate, base64enc
+Suggests: dcdata
 License: MIT
 Encoding: UTF-8
 LazyData: true
